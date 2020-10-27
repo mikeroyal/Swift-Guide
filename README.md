@@ -8,7 +8,7 @@
 
 ## Resources
 
-[Swift](https://developer.apple.com/swift/) is Apple's main programming language for iOS, macOS, watchOS, and tvOS app development. Nonetheless, many parts of Swift will be familiar from your experience of developing in C and Objective-C.
+[Swift](https://developer.apple.com/swift/) is Apple's main programming language for iOS, macOS, watchOS, and tvOS app development. Though, many parts of Swift will be familiar to developers from their experience of developing in C and Objective-C.
 
 [Xcode + Swift](https://developer.apple.com/swift/resources/) makes developing applications for MacOS and iOS fast and fun.
 
@@ -16,19 +16,39 @@
 
 [Start Developing iOS Apps with Swift](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 
-[Swift - The Ultimate Guide To Mac and iOS Development by Udemy](https://www.udemy.com/course/swift-ios-mac/)
+[Apple Developer Documentation](https://developer.apple.com/documentation)
+
+[Apple Foundation Framework](https://developer.apple.com/documentation/foundation)
+
+[Apple Core Animation Framework](https://developer.apple.com/documentation/quartzcore)
+
+[Apple Core Graphics Framework](https://developer.apple.com/documentation/coregraphics)
+
+[Getting Started with LLDB](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-basics.html)
 
 [Swift GitHub](https://github.com/apple/swift)
 
-[swift-evolution](https://github.com/apple/swift-evolution) maintains proposals for changes and user-visible enhancements to the Swift Programming Language. 
+[Swift Evolution](https://github.com/apple/swift-evolution) maintains proposals for changes and user-visible enhancements to the Swift Programming Language. 
+
+[Apple Developer Forums](https://developer.apple.com/forums/)
+
+[Swift Forums](https://forums.swift.org/)
 
 [Google's Swift Style Guide](https://google.github.io/swift/)
+
+[Swift Courses Online from Coursera](https://www.coursera.org/courses?query=swift)
+
+[Swift Courses Online from Udemy](https://www.udemy.com/topic/swift/)
+
+[Learning Swift course from Codecademy](https://www.codecademy.com/learn/learn-swift)
 
 ## Tools
 
 [Xcode](https://developer.apple.com/xcode/) includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. [Xcode 12](https://developer.apple.com/xcode/) is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU. 
 
 [UIKit](https://developer.apple.com/documentation/uikit) is a framework provides the required infrastructure for your iOS or tvOS apps. It provides the window and view architecture for implementing your interface, the event handling infrastructure for delivering Multi-Touch and other types of input to your app, and the main run loop needed to manage interactions among the user, the system, and your app.
+
+[Instruments](https://help.apple.com/instruments/mac/current/#/dev7b09c84f5) is a powerful and flexible performance-analysis and testing tool that’s part of the Xcode tool set. It’s designed to help you profile your iOS, watchOS, tvOS, and macOS apps, processes, and devices in order to better understand and optimize their behavior and performance.
 
 [Cocoapods](https://cocoapods.org/) is a dependency manager for Swift and Objective-C used in Xcode projects by specifying the dependencies for your project in a simple text file. CocoaPods then recursively resolves dependencies between libraries, fetches source code for all dependencies, and creates and maintains an Xcode workspace to build your project. 
 
