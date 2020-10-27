@@ -10,6 +10,8 @@
 
 [Swift](https://developer.apple.com/swift/) is Apple's main programming language for iOS, macOS, watchOS, and tvOS app development. Though, many parts of Swift will be familiar to developers from their experience of developing in C and Objective-C.
 
+[Swift Evolution](https://github.com/apple/swift-evolution) maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+
 [Xcode + Swift](https://developer.apple.com/swift/resources/) makes developing applications for MacOS and iOS fast and fun.
 
 [Swift 5.3 Basics](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
@@ -26,9 +28,7 @@
 
 [Getting Started with LLDB](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-basics.html)
 
-[Swift GitHub](https://github.com/apple/swift)
-
-[Swift Evolution](https://github.com/apple/swift-evolution) maintains proposals for changes and user-visible enhancements to the Swift Programming Language. 
+[Swift GitHub](https://github.com/apple/swift) 
 
 [Apple Developer Forums](https://developer.apple.com/forums/)
 
