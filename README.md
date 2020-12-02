@@ -30,6 +30,8 @@
 
 [Mac Catalyst - iOS - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/mac-catalyst/)
 
+[Amazon EC2 Mac Instances](https://aws.amazon.com/ec2/instance-types/mac/)
+
 [Swift GitHub](https://github.com/apple/swift) 
 
 [Apple Developer Forums](https://developer.apple.com/forums/)
